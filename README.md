@@ -125,8 +125,6 @@ This repository showcases an automated system for extracting critical informatio
 
 
 <video src="https://github.com/Rohesen/Medical-Data-Extraction/blob/main/project%20video.mp4" controls>
-   project video
-</video>
 
 
 ---
