@@ -118,7 +118,7 @@ This repository showcases an automated system for extracting critical informatio
 2️⃣ **Processing**:  
    - Convert PDF to image.  
    - Enhance image quality.  
-   - Extract text using OCR.  
+   - Extract text using OCR. 
 3️⃣ **Output**: A structured JSON file with extracted data.  
 
 ---
