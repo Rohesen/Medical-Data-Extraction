@@ -10,7 +10,7 @@ This repository showcases an automated system for extracting critical informatio
 ✅ Extracts text from images using Tesseract OCR.  
 ✅ Structures unstructured text into a well-defined JSON format.  
 
-![Medical Data Extraction Workflow]("https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%205.png")
+![Medical Data Extraction Workflow](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%205.png)
 
 
 ---
