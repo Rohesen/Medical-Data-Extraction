@@ -51,10 +51,18 @@ This repository showcases an automated system for extracting critical informatio
  
 
 3️⃣ **Text Extraction**  
-   - Extracts meaningful text from images using `pytesseract`.  
+   - Extracts meaningful text from images using `pytesseract`.
+   - 
+
+![Text Extraction](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%204.png)
+
+
+
 
 4️⃣ **Data Structuring**  
-   - Uses regular expressions to identify and organize fields like patient name, address, medications, and more.  
+   - Uses regular expressions to identify and organize fields like patient name, address, medications, and more.
+
+
 
 ---
 
