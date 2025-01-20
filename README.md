@@ -124,7 +124,7 @@ This repository showcases an automated system for extracting critical informatio
 3️⃣ **Output**: A structured JSON file with extracted data.  
 
 
-<video src="https://github.com/Rohesen/Medical-Data-Extraction/blob/main/project%20video.mp4" controls>
+[Watch the demo video](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/project%20video.mp4)
 
 
 ---
