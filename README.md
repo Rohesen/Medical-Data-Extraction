@@ -39,6 +39,8 @@ This repository showcases an automated system for extracting critical informatio
 2️⃣ **Image Processing**  
    - Enhances image clarity using OpenCV for improved OCR results.
 
+     
+
 ![Simple Thresholding](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%203.png)
 
 
@@ -52,7 +54,8 @@ This repository showcases an automated system for extracting critical informatio
 
 3️⃣ **Text Extraction**  
    - Extracts meaningful text from images using `pytesseract`.
-   - 
+
+
 
 ![Text Extraction](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%204.png)
 
