@@ -10,7 +10,11 @@ This repository showcases an automated system for extracting critical informatio
 ✅ Extracts text from images using Tesseract OCR.  
 ✅ Structures unstructured text into a well-defined JSON format.  
 
+
+
 ![Medical Data Extraction Workflow](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%205.png)
+
+
 
 
 ---
@@ -27,10 +31,24 @@ This repository showcases an automated system for extracting critical informatio
 ## 🔍 **How It Works**  
 
 1️⃣ **PDF to Image Conversion**  
-   - Converts PDF files to high-quality images using `pdf2image`.  
+   - Converts PDF files to high-quality images using `pdf2image`.
+
+![Medical Data Extraction Workflow](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%201.png)
+
 
 2️⃣ **Image Processing**  
-   - Enhances image clarity using OpenCV for improved OCR results.  
+   - Enhances image clarity using OpenCV for improved OCR results.
+
+![Simple Thresholding](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%203.png)
+
+
+
+
+
+![Adaptive Thresholding](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/medical%20data%20extraction%202.png)
+
+
+ 
 
 3️⃣ **Text Extraction**  
    - Extracts meaningful text from images using `pytesseract`.  
