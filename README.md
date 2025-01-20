@@ -114,11 +114,13 @@ This repository showcases an automated system for extracting critical informatio
 
 ## 📂 **Project Workflow**  
 
-1️⃣ **Input**: A PDF medical document.  
+1️⃣ **Input**: A PDF medical document.
+
 2️⃣ **Processing**:  
    - Convert PDF to image.  
    - Enhance image quality.  
    - Extract text using OCR. 
+
 3️⃣ **Output**: A structured JSON file with extracted data.  
 
 ---
