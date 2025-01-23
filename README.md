@@ -126,7 +126,7 @@ This repository showcases an automated system for extracting critical informatio
 
 ---
 
-![Expense_Track](https://github.com/Rohesen/Expense-Tracking-System/blob/main/Expense_tracker_preview.gif)
+![Review Video](https://github.com/Rohesen/Medical-Data-Extraction/blob/main/project_review_video.gif)
 
 
 ---
